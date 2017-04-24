@@ -54,7 +54,9 @@ tivo-Mac:LibiMobileDevice-MacOX>thompson$ ./futurerestore
                    		          WARNING: only use this for device without baseband (eg iPod or some wifi only iPads)
 ----------------------------------------------------------------------------------------------------------------------------
 
+when choosing any executable file, some options must be started with "./" and some without.
+for and example, "futurerestore" needs to be run like "./futurerestore" and some like "irecovery" and not "./irecovery"
 
-when choosing any option always type "./" first. like this ./idevicerestore or ./tsschecker
+----------------------------------------------------------------------------------------------------------------------------
 
 last: if using "iDeviceReRestore" you will need to make a "shsh" folder in this same directory
